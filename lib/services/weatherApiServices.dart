@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:permission_handler/permission_handler.dart';
 import 'package:weather_y18/model/ApiResponse.dart';
 
-const String apiKey = "ae603634fd8d4e06b3762453260706";
+const String apiKey = "API_KEY";
 
 class WeatherApiServices {
   final String baseUrl =

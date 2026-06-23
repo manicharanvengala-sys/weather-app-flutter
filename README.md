@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # weather_y18
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# weather-app-flutter
+A modern weather application built with Flutter that provides real-time weather information, forecasts, city search, and saved locations using WeatherAPI.
+>>>>>>> 1a8743720eca716f9786ac6b5749a236cd156495
