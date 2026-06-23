@@ -4,14 +4,14 @@ A modern weather application built with Flutter that provides real-time weather 
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](assets/home_ss.png)
+<h3>Home Screen</h3>
+<img src="assets/home_ss.png" width="300">
 
-### Weather Details
-![Weather Details](assets/details_ss.png)
+<h3>Weather Details</h3>
+<img src="assets/details_ss.png" width="300">
 
-### Search Bar
-![Search Bar](assets/search_ss.png)
+<h3>Search Bar</h3>
+<img src="assets/search_ss.png" width="300">
 
 ## Tech Stack
 - Flutter
