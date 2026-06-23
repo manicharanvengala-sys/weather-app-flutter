@@ -20,3 +20,16 @@ samples, guidance on mobile development, and a full API reference.
 # weather-app-flutter
 A modern weather application built with Flutter that provides real-time weather information, forecasts, city search, and saved locations using WeatherAPI.
 >>>>>>> 1a8743720eca716f9786ac6b5749a236cd156495
+> 
+> ## Screenshots
+
+### Home Screen
+![Home Screen](assets/home_ss.png)
+
+### Weather Details
+![Weather Details](assets/details_ss.png)
+
+### Search Bar
+![Weather Details](assets/search_ss.png)
+
+
